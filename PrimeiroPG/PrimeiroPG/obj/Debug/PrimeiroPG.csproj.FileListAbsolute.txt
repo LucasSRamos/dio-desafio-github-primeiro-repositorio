@@ -1,0 +1,8 @@
+C:\Users\lucas\source\repos\PrimeiroPG\PrimeiroPG\obj\Debug\PrimeiroPG.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\PrimeiroPG\PrimeiroPG\obj\Debug\PrimeiroPG.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\source\repos\PrimeiroPG\PrimeiroPG\obj\Debug\PrimeiroPG.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\PrimeiroPG\PrimeiroPG\bin\Debug\PrimeiroPG.exe.config
+C:\Users\lucas\source\repos\PrimeiroPG\PrimeiroPG\bin\Debug\PrimeiroPG.exe
+C:\Users\lucas\source\repos\PrimeiroPG\PrimeiroPG\bin\Debug\PrimeiroPG.pdb
+C:\Users\lucas\source\repos\PrimeiroPG\PrimeiroPG\obj\Debug\PrimeiroPG.exe
+C:\Users\lucas\source\repos\PrimeiroPG\PrimeiroPG\obj\Debug\PrimeiroPG.pdb
